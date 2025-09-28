@@ -10,5 +10,4 @@ public class SpringBootDeploymentDemoApplication {
         SpringApplication.run(SpringBootDeploymentDemoApplication.class, args);
         System.out.println("SpringBootDeploymentDemo application started ...... ");
     }
-
 }
